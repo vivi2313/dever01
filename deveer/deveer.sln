@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deveer", "deveer.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever02", "..\dever02\dever02.csproj", "{B4E6382B-03F3-4306-B4F7-129904051F68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever 03", "..\dever 03\dever 03.csproj", "{ED3EE587-EC1A-41B3-A9F4-EA43E730A369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B4E6382B-03F3-4306-B4F7-129904051F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E6382B-03F3-4306-B4F7-129904051F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4E6382B-03F3-4306-B4F7-129904051F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3EE587-EC1A-41B3-A9F4-EA43E730A369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3EE587-EC1A-41B3-A9F4-EA43E730A369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3EE587-EC1A-41B3-A9F4-EA43E730A369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3EE587-EC1A-41B3-A9F4-EA43E730A369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

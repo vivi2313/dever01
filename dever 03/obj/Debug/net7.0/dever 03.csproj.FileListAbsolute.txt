@@ -1,0 +1,14 @@
+C:\Users\igor55009746\Documents\dever\dever 03\bin\Debug\net7.0\dever 03.exe
+C:\Users\igor55009746\Documents\dever\dever 03\bin\Debug\net7.0\dever 03.deps.json
+C:\Users\igor55009746\Documents\dever\dever 03\bin\Debug\net7.0\dever 03.runtimeconfig.json
+C:\Users\igor55009746\Documents\dever\dever 03\bin\Debug\net7.0\dever 03.dll
+C:\Users\igor55009746\Documents\dever\dever 03\bin\Debug\net7.0\dever 03.pdb
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.AssemblyInfoInputs.cache
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.AssemblyInfo.cs
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.csproj.CoreCompileInputs.cache
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.dll
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\refint\dever 03.dll
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.pdb
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\dever 03.genruntimeconfig.cache
+C:\Users\igor55009746\Documents\dever\dever 03\obj\Debug\net7.0\ref\dever 03.dll
