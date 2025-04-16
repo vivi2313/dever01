@@ -10,11 +10,14 @@
         Console.Write("Digite o segundo número: ");
         double numero2 = double.Parse(Console.ReadLine());  
 
-       
-        if (numero1 == numero2)
+        
+        if (numero1 != numero2)
+        {
+            Console.WriteLine("Os dois números são diferentes.");
+        }
+        else
         {
             Console.WriteLine("Os dois números são iguais.");
         }
-        
     }
 }
