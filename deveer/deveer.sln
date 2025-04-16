@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever05", "..\dever05\dever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever06", "..\dever06\dever06.csproj", "{B1FBCB5C-F82A-46B6-92C9-D82EA284B3F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever07", "..\dever07\dever07.csproj", "{D465093E-B7C9-4223-8E09-74C5A730DD5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B1FBCB5C-F82A-46B6-92C9-D82EA284B3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1FBCB5C-F82A-46B6-92C9-D82EA284B3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1FBCB5C-F82A-46B6-92C9-D82EA284B3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D465093E-B7C9-4223-8E09-74C5A730DD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D465093E-B7C9-4223-8E09-74C5A730DD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D465093E-B7C9-4223-8E09-74C5A730DD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D465093E-B7C9-4223-8E09-74C5A730DD5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
