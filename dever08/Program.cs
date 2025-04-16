@@ -15,9 +15,6 @@
         {
             Console.WriteLine("Os dois números são diferentes.");
         }
-        else
-        {
-            Console.WriteLine("Os dois números são iguais.");
-        }
+       
     }
 }
